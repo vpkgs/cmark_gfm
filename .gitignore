@@ -1,0 +1,9 @@
+# Binaries for programs and plugins
+main
+cmark_gfm
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
+vls.log
