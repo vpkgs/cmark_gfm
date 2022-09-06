@@ -63,3 +63,7 @@ https://github.com/github/cmark-gfm
 ```sh
 man 3 cmark-gfm
 ```
+
+
+## License 
+MIT or MIT-0 at your choice.
